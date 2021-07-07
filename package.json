@@ -1,6 +1,6 @@
 {
   "name": "ssb-validate2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cryptographic validation of Scuttlebutt messages.",
   "author": "Andre Staltz <contact@staltz.com>",
   "license": "LGPL-3.0",
