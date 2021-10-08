@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2021 Andre Staltz
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # ssb-validate2
 
 Cryptographic validation of Scuttlebutt messages, a successor to [ssb-validate](https://github.com/ssbc/ssb-validate).
